@@ -2,3 +2,5 @@ Android/
 /.cargo/
 .ssh/
 target/
+target/
+storage/
