@@ -1,6 +1,9 @@
 fastapi
 uvicorn[standard]
+<<<<<<< HEAD
 
 fastapi
 uvicorn[standard]
 
+=======
+>>>>>>> origin/main
